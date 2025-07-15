@@ -1,0 +1,14 @@
+{
+    "name": "com.kurotori4423.kurotori-tools",
+    "rootNamespace": "Kurotori4423",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

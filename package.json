@@ -1,0 +1,10 @@
+{
+    "name": "com.kurotori4423.kurotori-tools",
+    "version": "0.1.0",
+    "displayName": "Kurotori Tools",
+    "description": "Unity extension tools created by Kurotori.",
+    "unity": "2022.3",
+    "keywords": ["Mesh"],
+    "author": { "name": "kurotori4423", "url": "https://github.com/kurotori4423" },
+    "legacyFolders": {}
+}
